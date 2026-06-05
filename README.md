@@ -10,10 +10,6 @@
 
 > *"Sou apaixonado por tecnologia, inovação e melhoria contínua, buscando sempre expandir conhecimentos e entregar soluções de qualidade."*
 
-[![GitHub Followers](https://img.shields.io/github/followers/Kelvin-Cuinica?label=Seguidores&style=social)](https://github.com/Kelvin-Cuinica?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Kelvin-Cuinica?style=social)](https://github.com/Kelvin-Cuinica/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Kelvin-Cuinica?style=social)](https://github.com/Kelvin-Cuinica/network/members)
-
 </div>
 
 ---
@@ -22,179 +18,112 @@
 
 Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de diferentes dimensões. Tenho paixão por transformar ideias em soluções reais, combinando código limpo com arquitetura robusta.
 
-<table>
-<tr>
-<td width="50%">
-
 ### ✅ O que faço
 
-- Desenvolvimento **Full Stack** e **Back-end**
-- Implementação de soluções com **PHP**, **Java**, **JavaScript**
-- APIs REST com **Tailwind CSS**
-- Versionamento com **Git** e **GitHub**
-- Administração de servidores **Apache**
-- Desenvolvimento de Software completo
+- Desenvolvimento **Full Stack** e **Back-end** em projetos de diferentes dimensões
+- Implementação de soluções com **PHP**, **Java**, **JavaScript**, **Tailwind CSS** e **APIs REST**
+- Versionamento de código com **Git** e **GitHub**
+- Administração e configuração de servidores **Apache**
+- Desenvolvimento de Software utilizando **HTML**, **CSS**, **JavaScript**, **Java** e **PHP**
 
-</td>
-<td width="50%">
-
-### 📚 Conhecimentos
+### 📚 Conhecimentos Adicionais
 
 - 🌱 **Flutter** — Desenvolvimento mobile
 - 🌱 **Laravel** — Framework PHP
 - 🌱 **React** — Biblioteca JavaScript
-- 📊 **APIs REST** — Integrações
+- 📊 **APIs REST** — Integrações e serviços
 - 🗄️ **MySQL / SQLite** — Bancos de dados
 - 🐧 **Linux** — Configuração e administração
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 💻 Linguagens Principais
+<table>
+<tr>
+<td align="center" width="33%">
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+#### 💻 Linguagens
 
-### 🎨 Frameworks & Bibliotecas
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
+</td>
+<td align="center" width="33%">
 
-### ⚙️ Ferramentas & Infraestrutura
+#### 🎨 Frameworks
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)](https://httpd.apache.org/)
-[![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+
+</td>
+<td align="center" width="34%">
+
+#### ⚙️ Ferramentas
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 🎓 Educação & Gestão
-
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
-**🏫 Academy USTM**
-<br/>
-*Plataforma educacional*
-<br/>
-[<kbd> Acessar → </kbd>](https://academy-ustm.zya.me)
+### 🎓 Educação & Gestão
 
-</td>
-<td width="33%">
-
-**📋 ProQual**
-<br/>
-*Sistema de gestão de qualidade*
-<br/>
-[<kbd> Acessar → </kbd>](https://proqual.zya.me)
+| Projeto | Descrição |
+|---------|-----------|
+| 🏫 **[Academy USTM](https://academy-ustm.zya.me)** | Plataforma educacional |
+| 📋 **[ProQual](https://proqual.zya.me)** | Sistema de gestão de qualidade |
+| ⏱️ **[WorkTrack](https://worktrack.zya.me)** | Gestão de tempo e produtividade |
 
 </td>
-<td width="34%">
-
-**⏱️ WorkTrack**
-<br/>
-*Gestão de tempo e produtividade*
-<br/>
-[<kbd> Acessar → </kbd>](https://worktrack.zya.me)
-
-</td>
-</tr>
-</table>
+<td width="50%">
 
 ### 🛒 E-commerce & Negócios
 
-<table>
-<tr>
-<td width="50%">
-
-**👕 Vestir MZ**
-<br/>
-*E-commerce de moda*
-<br/>
-[<kbd> Acessar → </kbd>](https://vestirmz.zya.me)
-
-</td>
-<td width="50%">
-
-**🎯 MegaPoint**
-<br/>
-*Sistema de pontos e fidelização*
-<br/>
-[<kbd> Acessar → </kbd>](https://megapoint.zya.me)
+| Projeto | Descrição |
+|---------|-----------|
+| 👕 **[Vestir MZ](https://vestirmz.zya.me)** | E-commerce de moda |
+| 🎯 **[MegaPoint](https://megapoint.zya.me)** | Sistema de pontos e fidelização |
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%">
 
 ### 🌟 Projetos Especiais
 
-<table>
-<tr>
-<td width="33%">
-
-**🦸 Be Your Own Hero**
-<br/>
-*Projeto social / Inspiração*
-<br/>
-[<kbd> Acessar → </kbd>](https://beyourownhero-mz.zya.me)
+| Projeto | Descrição |
+|---------|-----------|
+| 🦸 **[Be Your Own Hero](https://beyourownhero-mz.zya.me)** | Projeto social / Inspiração |
+| 🏛️ **[Ruína do Sol](https://ruinasdosol.zya.me)** | Projeto cultural / Turismo |
+| ✨ **[Riyannic](https://riyannic.zya.me)** | Portfólio / Marca pessoal |
 
 </td>
-<td width="33%">
-
-**🏛️ Ruína do Sol**
-<br/>
-*Projeto cultural / Turismo*
-<br/>
-[<kbd> Acessar → </kbd>](https://ruinasdosol.zya.me)
-
-</td>
-<td width="34%">
-
-**✨ Riyannic**
-<br/>
-*Portfólio / Marca pessoal*
-<br/>
-[<kbd> Acessar → </kbd>](https://riyannic.zya.me)
-
-</td>
-</tr>
-</table>
+<td width="50%">
 
 ### 🔬 Tecnologia & Inovação
 
-<table>
-<tr>
-<td width="50%">
-
-**💧 AquaLab**
-<br/>
-*Soluções ambientais / Água*
-<br/>
-[<kbd> Acessar → </kbd>](https://aqualab.zya.me)
-
-</td>
-<td width="50%">
-
-**🏗️ IA Arquitetos**
-<br/>
-*Arquitetura / Tecnologia*
-<br/>
-[<kbd> Acessar → </kbd>](https://iaarquitetos.zya.me)
+| Projeto | Descrição |
+|---------|-----------|
+| 💧 **[AquaLab](https://aqualab.zya.me)** | Soluções ambientais / Água |
+| 🏗️ **[IA Arquitetos](https://iaarquitetos.zya.me)** | Arquitetura / Tecnologia |
 
 </td>
 </tr>
@@ -224,21 +153,6 @@ Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de dife
 ---
 
 <div align="center">
-
-### 💡 Filosofia de Trabalho
-
-```php
-<?php
-class Desenvolvedor {
-    public $paixao = "Tecnologia & Inovação";
-    public $metodo = "Melhoria Contínua";
-    
-    public function entregarSolucao($projeto) {
-        return $projeto->qualidade = "Excelente";
-    }
-}
-?>
-```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Kelvin-Cuinica&color=667eea&style=for-the-badge&label=Perfil+Visualiza%C3%A7%C3%B5es)
 
