@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Kelvin%20Cuinica&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn" />
 
   <!-- Avatar com borda elegante -->
-  <img src="https://timbitech.space/imgs/kelvin-no%20background.PNG" width="180" style="border-radius: 50%; border: 4px solid #667EEA; margin-top: -90px; background: white; padding: 4px;" alt="Kelvin Cuinica" />
+  <img src="https://timbitech.space/imgs/kelvin-no-backgroud.PNG" width="180" style="border-radius: 50%; border: 4px solid #667EEA; margin-top: -90px; background: white; padding: 4px;" alt="Kelvin Cuinica" />
 
   <br><br>
 
