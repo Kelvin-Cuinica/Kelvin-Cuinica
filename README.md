@@ -18,15 +18,22 @@
 
 Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de diferentes dimensões. Tenho paixão por transformar ideias em soluções reais, combinando código limpo com arquitetura robusta.
 
-### ✅ O que faço
+<table>
+<tr>
+<td width="50%">
 
-- Desenvolvimento **Full Stack** e **Back-end** em projetos de diferentes dimensões
-- Implementação de soluções com **PHP**, **Java**, **JavaScript**, **Tailwind CSS** e **APIs REST**
+#### ✅ O que faço
+
+- Desenvolvimento **Full Stack** e **Back-end**
+- Soluções com **PHP**, **Java**, **JavaScript**, **Tailwind CSS** e **APIs REST**
 - Versionamento de código com **Git** e **GitHub**
-- Administração e configuração de servidores **Apache**
-- Desenvolvimento de Software utilizando **HTML**, **CSS**, **JavaScript**, **Java** e **PHP**
+- Administração de servidores **Apache**
+- Desenvolvimento completo com **HTML**, **CSS**, **JS**, **Java** e **PHP**
 
-### 📚 Conhecimentos Adicionais
+</td>
+<td width="50%">
+
+#### 📚 Conhecimentos Adicionais
 
 - 🌱 **Flutter** — Desenvolvimento mobile
 - 🌱 **Laravel** — Framework PHP
@@ -34,6 +41,10 @@ Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de dife
 - 📊 **APIs REST** — Integrações e serviços
 - 🗄️ **MySQL / SQLite** — Bancos de dados
 - 🐧 **Linux** — Configuração e administração
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -86,21 +97,71 @@ Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de dife
 
 ### 🎓 Educação & Gestão
 
-| Projeto | Descrição |
-|---------|-----------|
-| 🏫 **[Academy USTM](https://academy-ustm.zya.me)** | Plataforma educacional |
-| 📋 **[ProQual](https://proqual.zya.me)** | Sistema de gestão de qualidade |
-| ⏱️ **[WorkTrack](https://worktrack.zya.me)** | Gestão de tempo e produtividade |
+<table>
+<tr>
+<td>
+
+🏫 **Academy USTM**
+<br/>
+*Plataforma educacional*
+<br/>
+[<kbd> Ver Projeto → </kbd>](https://academy-ustm.zya.me)
+
+</td>
+</tr>
+<tr>
+<td>
+
+📋 **ProQual**
+<br/>
+*Sistema de gestão de qualidade*
+<br/>
+[<kbd> Ver Projeto → </kbd>](https://proqual.zya.me)
+
+</td>
+</tr>
+<tr>
+<td>
+
+⏱️ **WorkTrack**
+<br/>
+*Gestão de tempo e produtividade*
+<br/>
+[<kbd> Ver Projeto → </kbd>](https://worktrack.zya.me)
+
+</td>
+</tr>
+</table>
 
 </td>
 <td width="50%">
 
 ### 🛒 E-commerce & Negócios
 
-| Projeto | Descrição |
-|---------|-----------|
-| 👕 **[Vestir MZ](https://vestirmz.zya.me)** | E-commerce de moda |
-| 🎯 **[MegaPoint](https://megapoint.zya.me)** | Sistema de pontos e fidelização |
+<table>
+<tr>
+<td>
+
+👕 **Vestir MZ**
+<br/>
+*E-commerce de moda*
+<br/>
+[<kbd> Ver Projeto → </kbd>](https://vestirmz.zya.me)
+
+</td>
+</tr>
+<tr>
+<td>
+
+🎯 **MegaPoint**
+<br/>
+*Sistema de pontos e fidelização*
+<br/>
+[<kbd> Ver Projeto → </kbd>](https://megapoint.zya.me)
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -109,21 +170,71 @@ Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de dife
 
 ### 🌟 Projetos Especiais
 
-| Projeto | Descrição |
-|---------|-----------|
-| 🦸 **[Be Your Own Hero](https://beyourownhero-mz.zya.me)** | Projeto social / Inspiração |
-| 🏛️ **[Ruína do Sol](https://ruinasdosol.zya.me)** | Projeto cultural / Turismo |
-| ✨ **[Riyannic](https://riyannic.zya.me)** | Portfólio / Marca pessoal |
+<table>
+<tr>
+<td>
+
+🦸 **Be Your Own Hero**
+<br/>
+*Projeto social / Inspiração*
+<br/>
+[<kbd> Ver Projeto → </kbd>](https://beyourownhero-mz.zya.me)
+
+</td>
+</tr>
+<tr>
+<td>
+
+🏛️ **Ruína do Sol**
+<br/>
+*Projeto cultural / Turismo*
+<br/>
+[<kbd> Ver Projeto → </kbd>](https://ruinasdosol.zya.me)
+
+</td>
+</tr>
+<tr>
+<td>
+
+✨ **Riyannic**
+<br/>
+*Portfólio / Marca pessoal*
+<br/>
+[<kbd> Ver Projeto → </kbd>](https://riyannic.zya.me)
+
+</td>
+</tr>
+</table>
 
 </td>
 <td width="50%">
 
 ### 🔬 Tecnologia & Inovação
 
-| Projeto | Descrição |
-|---------|-----------|
-| 💧 **[AquaLab](https://aqualab.zya.me)** | Soluções ambientais / Água |
-| 🏗️ **[IA Arquitetos](https://iaarquitetos.zya.me)** | Arquitetura / Tecnologia |
+<table>
+<tr>
+<td>
+
+💧 **AquaLab**
+<br/>
+*Soluções ambientais / Água*
+<br/>
+[<kbd> Ver Projeto → </kbd>](https://aqualab.zya.me)
+
+</td>
+</tr>
+<tr>
+<td>
+
+🏗️ **IA Arquitetos**
+<br/>
+*Arquitetura / Tecnologia*
+<br/>
+[<kbd> Ver Projeto → </kbd>](https://iaarquitetos.zya.me)
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -146,9 +257,13 @@ Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de dife
 
 ## 📫 Contato
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kelvin-Cuinica)
+
+</div>
 
 ---
 
