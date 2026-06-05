@@ -10,7 +10,7 @@
   <br><br>
 
   <!-- Texto estático + Typing animation -->
-  <h3>Full Stack Developer</h3>
+  <h3>💻 Full Stack Developer 🚀</h3>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
   </a>
