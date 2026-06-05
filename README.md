@@ -1,41 +1,41 @@
-&lt;!-- HEADER / HERO SECTION --&gt;
-&lt;div align="center"&gt;
+<!-- HEADER / HERO SECTION -->
+<div align="center">
   
-  &lt;!-- Banner animado com gradiente moderno --&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Kelvin%20Cuinica&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Back-end%20Specialist&descAlignY=55&descSize=18&animation=fadeIn" /&gt;
+  <!-- Banner animado com gradiente moderno -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Kelvin%20Cuinica&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Back-end%20Specialist&descAlignY=55&descSize=18&animation=fadeIn" />
 
-  &lt;!-- Avatar com borda elegante --&gt;
-  &lt;img src="https://github.com/Kelvin-Cuinica.png?size=200" width="180" style="border-radius: 50%; border: 4px solid #667EEA; margin-top: -90px; background: white; padding: 4px;" alt="Kelvin Cuinica" /&gt;
+  <!-- Avatar com borda elegante -->
+  <img src="https://github.com/Kelvin-Cuinica.png?size=200" width="180" style="border-radius: 50%; border: 4px solid #667EEA; margin-top: -90px; background: white; padding: 4px;" alt="Kelvin Cuinica" />
 
-  &lt;br&gt;&lt;br&gt;
+  <br><br>
 
-  &lt;!-- Typing animation --&gt;
-  &lt;a href="https://git.io/typing-svg"&gt;
-    &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Transformando+ideias+em+solu%C3%A7%C3%B5es;%E2%9C%A8+Code.+Build.+Innovate." alt="Typing SVG" /&gt;
-  &lt;/a&gt;
+  <!-- Typing animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Transformando+ideias+em+solu%C3%A7%C3%B5es;%E2%9C%A8+Code.+Build.+Innovate." alt="Typing SVG" />
+  </a>
 
-  &lt;!-- Badges de status --&gt;
-  &lt;p&gt;
-    &lt;img src="https://img.shields.io/badge/Focus-Full%20Stack-667EEA?style=flat-square" /&gt;
-    &lt;img src="https://img.shields.io/badge/Location-Mozambique-764BA2?style=flat-square" /&gt;
-    &lt;img src="https://img.shields.io/badge/Status-Available%20for%20hire-00C853?style=flat-square" /&gt;
-  &lt;/p&gt;
+  <!-- Badges de status -->
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack-667EEA?style=flat-square" />
+    <img src="https://img.shields.io/badge/Location-Mozambique-764BA2?style=flat-square" />
+    <img src="https://img.shields.io/badge/Status-Available%20for%20hire-00C853?style=flat-square" />
+  </p>
 
-  &lt;!-- Citação --&gt;
-  &lt;blockquote&gt;
-    &lt;i&gt;"Apaixonado por tecnologia, inovação e melhoria contínua. Busco sempre expandir conhecimentos e entregar soluções de qualidade."&lt;/i&gt;
-  &lt;/blockquote&gt;
+  <!-- Citação -->
+  <blockquote>
+    <i>"Apaixonado por tecnologia, inovação e melhoria contínua. Busco sempre expandir conhecimentos e entregar soluções de qualidade."</i>
+  </blockquote>
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;!-- ABOUT SECTION --&gt;
+<!-- ABOUT SECTION -->
 ## 👨‍💻 Sobre Mim
 
 Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de diferentes dimensões. Tenho paixão por transformar ideias em soluções reais, combinando código limpo com arquitetura robusta.
 
-&lt;div align="center"&gt;
+<div align="center">
 
 | 💼 **O que faço** | 📚 **Conhecimentos Adicionais** |
 |:---:|:---:|
@@ -46,14 +46,14 @@ Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de dife
 | Desenvolvimento completo com **HTML**, **CSS**, **JS**, **Java** e **PHP** | 🗄️ **MySQL / SQLite** — Bancos de dados |
 | | 🐧 **Linux** — Configuração e administração |
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;!-- TECH STACK --&gt;
+<!-- TECH STACK -->
 ## 🛠️ Stack Tecnológico
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ### 💻 Linguagens
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -77,91 +77,118 @@ Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de dife
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;!-- FEATURED PROJECTS --&gt;
+<!-- FEATURED PROJECTS -->
 ## 🚀 Projetos em Destaque
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td width="50%" valign="top"&gt;
+<table>
+<tr>
+<td width="50%" valign="top">
 
 #### 🎓 Educação & Gestão
 
 | | Projeto | Descrição | Link |
 |:---:|:---|:---|:---:|
-| 🏫 | **Academy USTM** | Plataforma educacional | [&lt;kbd&gt;Ver Projeto&lt;/kbd&gt;](https://academy-ustm.zya.me) |
-| 📋 | **ProQual** | Sistema de gestão de qualidade | [&lt;kbd&gt;Ver Projeto&lt;/kbd&gt;](https://proqual.zya.me) |
-| ⏱️ | **WorkTrack** | Gestão de tempo e produtividade | [&lt;kbd&gt;Ver Projeto&lt;/kbd&gt;](https://worktrack.zya.me) |
+| 🏫 | **Academy USTM** | Plataforma educacional | [<kbd>Ver Projeto</kbd>](https://academy-ustm.zya.me) |
+| 📋 | **ProQual** | Sistema de gestão de qualidade | [<kbd>Ver Projeto</kbd>](https://proqual.zya.me) |
+| ⏱️ | **WorkTrack** | Gestão de tempo e produtividade | [<kbd>Ver Projeto</kbd>](https://worktrack.zya.me) |
 
-&lt;/td&gt;
-&lt;td width="50%" valign="top"&gt;
+</td>
+<td width="50%" valign="top">
 
 #### 🛒 E-commerce & Negócios
 
 | | Projeto | Descrição | Link |
 |:---:|:---|:---|:---:|
-| 👕 | **Vestir MZ** | E-commerce de moda | [&lt;kbd&gt;Ver Projeto&lt;/kbd&gt;](https://vestirmz.zya.me) |
-| 🎯 | **MegaPoint** | Sistema de pontos e fidelização | [&lt;kbd&gt;Ver Projeto&lt;/kbd&gt;](https://megapoint.zya.me) |
+| 👕 | **Vestir MZ** | E-commerce de moda | [<kbd>Ver Projeto</kbd>](https://vestirmz.zya.me) |
+| 🎯 | **MegaPoint** | Sistema de pontos e fidelização | [<kbd>Ver Projeto</kbd>](https://megapoint.zya.me) |
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td width="50%" valign="top"&gt;
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 #### 🌟 Projetos Especiais
 
 | | Projeto | Descrição | Link |
 |:---:|:---|:---|:---:|
-| 🦸 | **Be Your Own Hero** | Projeto social / Inspiração | [&lt;kbd&gt;Ver Projeto&lt;/kbd&gt;](https://beyourownhero-mz.zya.me) |
-| 🏛️ | **Ruína do Sol** | Projeto cultural / Turismo | [&lt;kbd&gt;Ver Projeto&lt;/kbd&gt;](https://ruinasdosol.zya.me) |
-| ✨ | **Riyannic** | Portfólio / Marca pessoal | [&lt;kbd&gt;Ver Projeto&lt;/kbd&gt;](https://riyannic.zya.me) |
+| 🦸 | **Be Your Own Hero** | Projeto social / Inspiração | [<kbd>Ver Projeto</kbd>](https://beyourownhero-mz.zya.me) |
+| 🏛️ | **Ruína do Sol** | Projeto cultural / Turismo | [<kbd>Ver Projeto</kbd>](https://ruinasdosol.zya.me) |
+| ✨ | **Riyannic** | Portfólio / Marca pessoal | [<kbd>Ver Projeto</kbd>](https://riyannic.zya.me) |
 
-&lt;/td&gt;
-&lt;td width="50%" valign="top"&gt;
+</td>
+<td width="50%" valign="top">
 
 #### 🔬 Tecnologia & Inovação
 
 | | Projeto | Descrição | Link |
 |:---:|:---|:---|:---:|
-| 💧 | **AquaLab** | Soluções ambientais / Água | [&lt;kbd&gt;Ver Projeto&lt;/kbd&gt;](https://aqualab.zya.me) |
-| 🏗️ | **IA Arquitetos** | Arquitetura / Tecnologia | [&lt;kbd&gt;Ver Projeto&lt;/kbd&gt;](https://iaarquitetos.zya.me) |
+| 💧 | **AquaLab** | Soluções ambientais / Água | [<kbd>Ver Projeto</kbd>](https://aqualab.zya.me) |
+| 🏗️ | **IA Arquitetos** | Arquitetura / Tecnologia | [<kbd>Ver Projeto</kbd>](https://iaarquitetos.zya.me) |
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
+</td>
+</tr>
+</table>
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;!-- GITHUB STATS --&gt;
+<!-- GITHUB STATS -->
 ## 📊 GitHub Analytics
 
-&lt;div align="center"&gt;
+<div align="center">
   
-  &lt;img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kelvin-Cuinica&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&icon_color=667eea&count_private=true&include_all_commits=true" alt="GitHub Stats" /&gt;
-  &lt;img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvin-Cuinica&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" /&gt;
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kelvin-Cuinica&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&icon_color=667eea&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvin-Cuinica&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
-  &lt;br&gt;
+  <br>
 
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelvin-Cuinica&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=c9d1d9" alt="GitHub Streak" /&gt;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelvin-Cuinica&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;!-- CURRENTLY LEARNING / FOCUS --&gt;
+<!-- CURRENTLY LEARNING / FOCUS -->
 ## 🎯 Foco Atual 2026
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ```text
 🌱 Aprendendo: Arquitetura de Microsserviços & Cloud Computing
 🔭 Trabalhando em: Escalabilidade de aplicações PHP/Laravel
 🤝 Aberto a: Colaborações em projetos open source
 ⚡ Fun fact: Acredito que o melhor código é aquele que não precisa ser escrito
+```
+
+</div>
+
+---
+
+<!-- CONTACT -->
+## 📫 Contato
+
+<div align="center">
+
+<a href="mailto:seu-email@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Kelvin-Cuinica"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Kelvin-Cuinica&color=667eea&style=for-the-badge&label=Perfil+Visualiza%C3%A7%C3%B5es)
+
+**Feito com dedicação por Kelvin Cuinica**
+
+</div>
