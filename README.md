@@ -155,6 +155,22 @@ Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de dife
 
 ---
 
+<!-- GITHUB STATS -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kelvin-Cuinica&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&icon_color=667eea&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvin-Cuinica&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+  <br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelvin-Cuinica&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+
+</div>
+
+---
+
 <!-- CONTACT -->
 ## 📫 Contato
 
