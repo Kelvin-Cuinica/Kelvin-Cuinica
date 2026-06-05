@@ -2,16 +2,17 @@
 <div align="center">
   
   <!-- Banner animado com gradiente moderno -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Kelvin%20Cuinica&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Back-end%20Specialist&descAlignY=55&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Kelvin%20Cuinica&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn" />
 
   <!-- Avatar com borda elegante -->
-  <img src="https://github.com/Kelvin-Cuinica.png?size=200" width="180" style="border-radius: 50%; border: 4px solid #667EEA; margin-top: -90px; background: white; padding: 4px;" alt="Kelvin Cuinica" />
+  <img src="https://timbitech.space/imgs/kelvin-no%20backgroud.PNG" width="180" style="border-radius: 50%; border: 4px solid #667EEA; margin-top: -90px; background: white; padding: 4px;" alt="Kelvin Cuinica" />
 
   <br><br>
 
-  <!-- Typing animation -->
+  <!-- Texto estático + Typing animation -->
+  <h3>Full Stack Developer</h3>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
   </a>
 
   <!-- Badges de status -->
