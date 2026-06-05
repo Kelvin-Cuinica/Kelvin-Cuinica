@@ -7,7 +7,7 @@
   <!-- Avatar com borda elegante -->
   <img src="https://timbitech.space/imgs/kelvin-no-background.PNG" width="180" style="border-radius: 50%; border: 4px solid #667EEA; margin-top: -90px; background: white; padding: 4px;" alt="Kelvin Cuinica" />
 
-  <br><br>
+  <br>
 
   <!-- Texto estático + Typing animation -->
   <h3 style="color: #667EEA; font-size: 22px; font-family: 'Fira Code', monospace; font-weight: 600;">💻 Full Stack Developer 🚀</h3>
