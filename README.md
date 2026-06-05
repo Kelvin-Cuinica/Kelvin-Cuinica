@@ -93,146 +93,76 @@ Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de dife
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎓 Educação & Gestão
 
 <table>
 <tr>
-<td>
-
-🏫 **Academy USTM**
-<br/>
-*Plataforma educacional*
-<br/>
-[<kbd> Ver Projeto → </kbd>](https://academy-ustm.zya.me)
-
-</td>
+<td width="30" align="center">🏫</td>
+<td><b>Academy USTM</b> — Plataforma educacional<br/><a href="https://academy-ustm.zya.me"><kbd>Ver Projeto</kbd></a></td>
 </tr>
 <tr>
-<td>
-
-📋 **ProQual**
-<br/>
-*Sistema de gestão de qualidade*
-<br/>
-[<kbd> Ver Projeto → </kbd>](https://proqual.zya.me)
-
-</td>
+<td width="30" align="center">📋</td>
+<td><b>ProQual</b> — Sistema de gestão de qualidade<br/><a href="https://proqual.zya.me"><kbd>Ver Projeto</kbd></a></td>
 </tr>
 <tr>
-<td>
-
-⏱️ **WorkTrack**
-<br/>
-*Gestão de tempo e produtividade*
-<br/>
-[<kbd> Ver Projeto → </kbd>](https://worktrack.zya.me)
-
-</td>
+<td width="30" align="center">⏱️</td>
+<td><b>WorkTrack</b> — Gestão de tempo e produtividade<br/><a href="https://worktrack.zya.me"><kbd>Ver Projeto</kbd></a></td>
 </tr>
 </table>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 E-commerce & Negócios
 
 <table>
 <tr>
-<td>
-
-👕 **Vestir MZ**
-<br/>
-*E-commerce de moda*
-<br/>
-[<kbd> Ver Projeto → </kbd>](https://vestirmz.zya.me)
-
-</td>
+<td width="30" align="center">👕</td>
+<td><b>Vestir MZ</b> — E-commerce de moda<br/><a href="https://vestirmz.zya.me"><kbd>Ver Projeto</kbd></a></td>
 </tr>
 <tr>
-<td>
-
-🎯 **MegaPoint**
-<br/>
-*Sistema de pontos e fidelização*
-<br/>
-[<kbd> Ver Projeto → </kbd>](https://megapoint.zya.me)
-
-</td>
+<td width="30" align="center">🎯</td>
+<td><b>MegaPoint</b> — Sistema de pontos e fidelização<br/><a href="https://megapoint.zya.me"><kbd>Ver Projeto</kbd></a></td>
 </tr>
 </table>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌟 Projetos Especiais
 
 <table>
 <tr>
-<td>
-
-🦸 **Be Your Own Hero**
-<br/>
-*Projeto social / Inspiração*
-<br/>
-[<kbd> Ver Projeto → </kbd>](https://beyourownhero-mz.zya.me)
-
-</td>
+<td width="30" align="center">🦸</td>
+<td><b>Be Your Own Hero</b> — Projeto social / Inspiração<br/><a href="https://beyourownhero-mz.zya.me"><kbd>Ver Projeto</kbd></a></td>
 </tr>
 <tr>
-<td>
-
-🏛️ **Ruína do Sol**
-<br/>
-*Projeto cultural / Turismo*
-<br/>
-[<kbd> Ver Projeto → </kbd>](https://ruinasdosol.zya.me)
-
-</td>
+<td width="30" align="center">🏛️</td>
+<td><b>Ruína do Sol</b> — Projeto cultural / Turismo<br/><a href="https://ruinasdosol.zya.me"><kbd>Ver Projeto</kbd></a></td>
 </tr>
 <tr>
-<td>
-
-✨ **Riyannic**
-<br/>
-*Portfólio / Marca pessoal*
-<br/>
-[<kbd> Ver Projeto → </kbd>](https://riyannic.zya.me)
-
-</td>
+<td width="30" align="center">✨</td>
+<td><b>Riyannic</b> — Portfólio / Marca pessoal<br/><a href="https://riyannic.zya.me"><kbd>Ver Projeto</kbd></a></td>
 </tr>
 </table>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔬 Tecnologia & Inovação
 
 <table>
 <tr>
-<td>
-
-💧 **AquaLab**
-<br/>
-*Soluções ambientais / Água*
-<br/>
-[<kbd> Ver Projeto → </kbd>](https://aqualab.zya.me)
-
-</td>
+<td width="30" align="center">💧</td>
+<td><b>AquaLab</b> — Soluções ambientais / Água<br/><a href="https://aqualab.zya.me"><kbd>Ver Projeto</kbd></a></td>
 </tr>
 <tr>
-<td>
-
-🏗️ **IA Arquitetos**
-<br/>
-*Arquitetura / Tecnologia*
-<br/>
-[<kbd> Ver Projeto → </kbd>](https://iaarquitetos.zya.me)
-
-</td>
+<td width="30" align="center">🏗️</td>
+<td><b>IA Arquitetos</b> — Arquitetura / Tecnologia<br/><a href="https://iaarquitetos.zya.me"><kbd>Ver Projeto</kbd></a></td>
 </tr>
 </table>
 
