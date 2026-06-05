@@ -11,7 +11,7 @@
 
   <!-- Typing animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Transformando+ideias+em+solu%C3%A7%C3%B5es;%E2%9C%A8+Code.+Build.+Innovate." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
   </a>
 
   <!-- Badges de status -->
@@ -23,7 +23,7 @@
 
   <!-- Citação -->
   <blockquote>
-    <i>"Apaixonado por tecnologia, inovação e melhoria contínua. Busco sempre expandir conhecimentos e entregar soluções de qualidade."</i>
+    <i>Apaixonado por tecnologia, inovação e melhoria contínua. Busco sempre expandir conhecimentos e entregar soluções de qualidade.</i>
   </blockquote>
 
 </div>
@@ -94,9 +94,9 @@ Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de dife
 
 | | Projeto | Descrição | Link |
 |:---:|:---|:---|:---:|
-| 🏫 | **Academy USTM** | Plataforma educacional | [<kbd>Ver Projeto</kbd>](https://academy-ustm.zya.me) |
-| 📋 | **ProQual** | Sistema de gestão de qualidade | [<kbd>Ver Projeto</kbd>](https://proqual.zya.me) |
-| ⏱️ | **WorkTrack** | Gestão de tempo e produtividade | [<kbd>Ver Projeto</kbd>](https://worktrack.zya.me) |
+| 🏫 | **Academy USTM** | Plataforma educacional | <a href="https://academy-ustm.zya.me" target="_blank"><kbd>Ver Projeto</kbd></a> |
+| 📋 | **ProQual** | Sistema de gestão de qualidade | <a href="https://proqual.zya.me" target="_blank"><kbd>Ver Projeto</kbd></a> |
+| ⏱️ | **WorkTrack** | Gestão de tempo e produtividade | <a href="https://worktrack.zya.me" target="_blank"><kbd>Ver Projeto</kbd></a> |
 
 </td>
 <td width="50%" valign="top">
@@ -105,8 +105,8 @@ Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de dife
 
 | | Projeto | Descrição | Link |
 |:---:|:---|:---|:---:|
-| 👕 | **Vestir MZ** | E-commerce de moda | [<kbd>Ver Projeto</kbd>](https://vestirmz.zya.me) |
-| 🎯 | **MegaPoint** | Sistema de pontos e fidelização | [<kbd>Ver Projeto</kbd>](https://megapoint.zya.me) |
+| 👕 | **Vestir MZ** | E-commerce de moda | <a href="https://vestirmz.zya.me" target="_blank"><kbd>Ver Projeto</kbd></a> |
+| 🎯 | **MegaPoint** | Sistema de pontos e fidelização | <a href="https://megapoint.zya.me" target="_blank"><kbd>Ver Projeto</kbd></a> |
 
 </td>
 </tr>
@@ -117,9 +117,9 @@ Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de dife
 
 | | Projeto | Descrição | Link |
 |:---:|:---|:---|:---:|
-| 🦸 | **Be Your Own Hero** | Projeto social / Inspiração | [<kbd>Ver Projeto</kbd>](https://beyourownhero-mz.zya.me) |
-| 🏛️ | **Ruína do Sol** | Projeto cultural / Turismo | [<kbd>Ver Projeto</kbd>](https://ruinasdosol.zya.me) |
-| ✨ | **Riyannic** | Portfólio / Marca pessoal | [<kbd>Ver Projeto</kbd>](https://riyannic.zya.me) |
+| 🦸 | **Be Your Own Hero** | Projeto social / Inspiração | <a href="https://beyourownhero-mz.zya.me" target="_blank"><kbd>Ver Projeto</kbd></a> |
+| 🏛️ | **Ruína do Sol** | Projeto cultural / Turismo | <a href="https://ruinasdosol.zya.me" target="_blank"><kbd>Ver Projeto</kbd></a> |
+| ✨ | **Riyannic** | Portfólio / Marca pessoal | <a href="https://riyannic.zya.me" target="_blank"><kbd>Ver Projeto</kbd></a> |
 
 </td>
 <td width="50%" valign="top">
@@ -128,28 +128,12 @@ Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de dife
 
 | | Projeto | Descrição | Link |
 |:---:|:---|:---|:---:|
-| 💧 | **AquaLab** | Soluções ambientais / Água | [<kbd>Ver Projeto</kbd>](https://aqualab.zya.me) |
-| 🏗️ | **IA Arquitetos** | Arquitetura / Tecnologia | [<kbd>Ver Projeto</kbd>](https://iaarquitetos.zya.me) |
+| 💧 | **AquaLab** | Soluções ambientais / Água | <a href="https://aqualab.zya.me" target="_blank"><kbd>Ver Projeto</kbd></a> |
+| 🏗️ | **IA Arquitetos** | Arquitetura / Tecnologia | <a href="https://iaarquitetos.zya.me" target="_blank"><kbd>Ver Projeto</kbd></a> |
 
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kelvin-Cuinica&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&icon_color=667eea&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvin-Cuinica&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-  <br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelvin-Cuinica&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 
 </div>
 
@@ -164,7 +148,6 @@ Sou desenvolvedor **Full Stack & Back-end** com experiência em projetos de dife
 🌱 Aprendendo: Arquitetura de Microsserviços & Cloud Computing
 🔭 Trabalhando em: Escalabilidade de aplicações PHP/Laravel
 🤝 Aberto a: Colaborações em projetos open source
-⚡ Fun fact: Acredito que o melhor código é aquele que não precisa ser escrito
 ```
 
 </div>
