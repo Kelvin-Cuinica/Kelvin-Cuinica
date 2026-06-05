@@ -1,10 +1,3 @@
-&lt;!-- ============================================ --&gt;
-&lt;!-- README.md - Perfil GitHub Profissional       --&gt;
-&lt;!-- Versão Estável (sem serviços externos instáveis) --&gt;
-&lt;!-- ============================================ --&gt;
-
-&lt;div align="center"&gt;
-
 # 👋 Olá, eu sou Desenvolvedor Full Stack!
 
 ### 💻 Back-end | 🎨 Front-end | 🚀 Inovação Contínua
